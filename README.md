@@ -1,2 +1,2 @@
 # conta-bancaria
-Desafio para simulanr uma conta bancária através do Terminal/Console
+Desafio para simular uma conta bancária através do Terminal/Console
